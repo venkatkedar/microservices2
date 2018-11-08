@@ -4,10 +4,10 @@
   <artifactId>micro-services</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <!-- -
+  
   <modules>
   	<module>config-server2</module>
-  	<module>sample-rest-service</module>
+  	<!--<module>sample-rest-service</module>-->
   </modules>
-  -->
+ 
 </project>
