@@ -6,3 +6,4 @@ cache:
     - $HOME/.m2
  
 install: true
+script: ./mvnw clean install
