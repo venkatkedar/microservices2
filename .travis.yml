@@ -6,4 +6,4 @@ scripts : ./mvnw clean install
 
 cache:
     directories: 
-        - "$HOME/.m2"
+        - $HOME/.m2
