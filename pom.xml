@@ -9,5 +9,5 @@
   	<module>config-server2</module>
   	<!--<module>sample-rest-service</module>-->
   </modules>
-  <!-- minor change-->
+  <!-- minor change 2-->
 </project>
