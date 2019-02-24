@@ -7,7 +7,7 @@
   
   <modules>
   	<module>config-server2</module>
-  	<!--<module>sample-rest-service</module>-->
+  	<module>sample-rest-service</module>
   </modules>
   <!-- minor change 4-->
 </project>
