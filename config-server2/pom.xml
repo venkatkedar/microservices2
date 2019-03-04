@@ -89,13 +89,13 @@
 				<groupId>io.openliberty.boost</groupId>
 				<artifactId>boost-maven-plugin</artifactId>
 
-				<executions>
+				<!--<executions>
 					<execution>
 						<goals>
 							<goal>docker-build</goal>
 						</goals>
 					</execution>
-				</executions>
+				</executions>-->
 			</plugin>
 		</plugins>
 	</build>
