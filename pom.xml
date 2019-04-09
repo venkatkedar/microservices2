@@ -24,6 +24,8 @@
 	<modules>
 		<module>config-server2</module>
 		<module>sample-rest-service</module>
+		<module>discovery-server</module>
+		<module>sample6</module>
 	</modules>
 	<!-- minor change 4 -->
 
