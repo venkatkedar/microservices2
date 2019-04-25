@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConfigServer2Application",
+            "request": "launch",
+            "mainClass": "com.java.learn.configserver2.ConfigServer2Application",
+            "projectName": "config-server2"
+        }
+    ]
+}
