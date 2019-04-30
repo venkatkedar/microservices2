@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DiscoveryServerApplication",
+            "request": "launch",
+            "mainClass": "com.example.discoveryserver.DiscoveryServerApplication",
+            "projectName": "discovery-server"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ConfigServer2Application",
             "request": "launch",
             "mainClass": "com.java.learn.configserver2.ConfigServer2Application",
