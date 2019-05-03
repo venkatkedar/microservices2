@@ -1,0 +1,15 @@
+server:
+  port: 8094
+  
+spring:
+  application:
+     name: sample2
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+       defaultZone: http://discovery-server:8761/eureka/
+  instance:
+     preferIpAddress: true
